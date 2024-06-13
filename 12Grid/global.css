@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-style-rw-26pt-bold: Raleway;
+  --font-work-sans: "Work Sans";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-mid: 17px;
+  --font-style-rw-16pt-medium-size: 16px;
+  --font-style-rw-26pt-bold-size: 26px;
+  --font-style-rw-18-semi-bold-for-sub-button-all-caps-size: 18px;
+  --font-style-rw-14pt-footer-below-heading-text-size: 14px;
+  --font-size-mini: 15px;
+  --font-size-3xl: 22px;
+  --font-style-rw-42pt-bold-size: 42px;
+  --font-style-rw-30pt-bold-for-location-name-size: 30px;
+  --font-size-151xl: 170px;
+  --font-style-rw-10pt-size: 10px;
+  --font-style-rw-font-decide-kerna-hai-size: 38px;
+
+  /* Colors */
+  --white: #fff;
+  --red: #f31524;
+  --error: #d40d0d;
+  --black: #000;
+  --color-darkslategray: #4a4a4a;
+  --color-lightgray-100: #ccc;
+  --light-grey: #f4f4f4;
+  --mid-grey: #969696;
+  --light-mid-grey: #bdbdbd;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-smi: 13px;
+
+  /* Border radiuses */
+  --br-21xl: 40px;
+  --br-31xl: 50px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-xl: 20px;
+
+  /* Effects */
+  --long-shadow-2: 10px 10px 30px rgba(0, 0, 0, 0.5);
+  --red-shadow-for-icon: 0px 0px 20px rgba(255, 49, 49, 0.75),
+    0px 0px 20px rgba(255, 49, 49, 0.75);
+  --long-shadow: 6px 6px 20px rgba(0, 0, 0, 0.25);
+}
